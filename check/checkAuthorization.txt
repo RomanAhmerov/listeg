@@ -1,0 +1,11 @@
+LOGIN  =>  PASSWORD
+
+alexsherbakov@gmail.com  =>  123456
+
+alexgopro@mail.ru  =>  123456
+
+semendacha@mail.ru  =>  123456
+
+turniksilovich@gmail.com  =>  123456
+
+neptunvoda@mail.ru  =>  123456
